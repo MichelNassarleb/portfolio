@@ -131,8 +131,8 @@ transition: color 300ms ease, transform 300ms ease, box-shadow 300ms ease, backg
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 12px;
-        width: 93vw;
+        font-size: 8px;
+        width: 90vw;
         margin-bottom: 60px;
         height: 22vh;
         
