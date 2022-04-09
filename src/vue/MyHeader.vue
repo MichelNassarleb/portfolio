@@ -36,7 +36,8 @@ nav{
 
 }
 .btn:hover{
-    color: aquamarine;
+    color: #777990;
+     transition: all 0.3s ease;
 }
 nav a{
     display: flex;
@@ -45,7 +46,8 @@ nav a{
  
 }
 nav ul li a:hover{
-    color: aquamarine;
+    color: #777990;
+     transition: all 0.3s ease;
 }
 
 .day-mode{
