@@ -10,7 +10,7 @@ passionate about developing user-friendly website applications.A Coding Addict!.
 problem-solving skills and ability to perform well in a team. Seeking to help
 you develop your websites,secure your networks, as well as grow and
 develop his own skills as a coder and as cyber securitist</p>
-<a href="https://download1337.mediafire.com/poe8z5nj1lrg/g9lqanqyveom6xa/CV.pdf" download="Michel Nassar CV">Download full resume.</a>
+<a href="https://drive.google.com/file/d/1OYjjQXAUCrP_0RZ1TUZKXmdyPtStHF9G/view?usp=sharing" target="_blank" >Download full resume.</a>
 </div>
     </section>
 </template>
