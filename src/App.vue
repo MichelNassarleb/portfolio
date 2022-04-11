@@ -1,7 +1,7 @@
 <template>
 <div class="full-sec">
     <section :class="[dark ? 'dark' : 'day-mode', 'main-section']">
-      <div class="none">None to see. </div>
+      
       
      
        <div class="header">
@@ -82,6 +82,8 @@ scrolled: false
 }
 .full-sec{
     width: 98vw !important;
+    background: white;
+
 }
 .full-sec .dark{
     background: #14142b;
@@ -175,7 +177,7 @@ cursor: pointer;
 .header{
     display: flex;
     justify-content: space-evenly;
-    margin-top: 50px;
+    
     width: 98vw;
    
   
