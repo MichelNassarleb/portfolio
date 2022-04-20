@@ -76,7 +76,7 @@
     .full-sec{
         width: 98vw;
         height: 90vh;
-        
+        border-top: none;
         display: flex;
         flex-direction: column;;
        justify-content: center;
@@ -192,4 +192,7 @@ font-size: 10px;
      background: #777990;
      
  }
+   .dark-serv{
+     background: #14142b !important;
+   }
     </style>

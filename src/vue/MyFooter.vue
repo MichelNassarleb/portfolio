@@ -62,6 +62,9 @@ justify-content: center;
 .dark-mode .text{
     color: white;
 }
+.dark-mode{
+    background: #14142b !important;
+}
 @media only screen and (max-width:800px){
     .text{
         font-size: 8px;
