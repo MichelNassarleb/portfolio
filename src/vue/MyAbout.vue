@@ -5,11 +5,7 @@
 </div>
 <div  class="text-sec">
 <h3 >About me</h3>
-<p>Results-driven computer science student from the Lebanese Univeristy
-passionate about developing user-friendly website applications.A Coding Addict!. Excellent
-problem-solving skills and ability to perform well in a team. Seeking to help
-you develop your websites,secure your networks, as well as grow and
-develop his own skills as a coder and as cyber securitist</p>
+<p>A skilled software developer, offering expertise in multiple programming languages and a strong understanding of software architecture and design. With a proven track record of delivering high-quality solutions, I have significantly contributed to a lot of projects that are currently in production. Known for my attention to detail, problem-solving abilities, and effective communication skills, I stay current with the latest technologies and am dedicated to delivering exceptional work.</p>
 <a href="https://drive.google.com/file/d/1OYjjQXAUCrP_0RZ1TUZKXmdyPtStHF9G/view?usp=sharing" target="_blank" >Download full resume.</a>
 </div>
     </section>
