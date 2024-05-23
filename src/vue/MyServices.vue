@@ -23,7 +23,7 @@ export default {
     props:['dark'],
     data(){
         return{
-            items:[{icon:'fa-solid fa-code',title:'Website Development', description:'Second year computer science student with long hours of Udemy, Scrimba and Youtube website development courses. '},
+            items:[{icon:'fa-solid fa-code',title:'Website - Mobile Application Development', description:'Second year computer science student with long hours of Udemy, Scrimba and Youtube website development courses. '},
             {icon:'fa-solid fa-shield',title:'Cyber Security', description:'Certified Cyber Securitist by Woz Global with knowledge in networking,CIA triad, protocols, firewalls, hash tools, OSI Model etc. '},
             {icon:'fa-solid fa-atom',title:'Physics Teaching', description:'Physics Graduate after long courses of Atoms, Optics, Waves,Quantum Physics, Electrical Physics and Mechanics.'}]
 
