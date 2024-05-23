@@ -5,7 +5,7 @@
             
             <h1>
                 <vue-typer 
-  :text='["Hello I am Michel Nassar","I am an ambitious Website Developer!"]'
+  :text='["Hello I am Michel Nassar","I am an ambitious Software Developer!"]'
   :repeat='0'
 
   :shuffle='false'
@@ -76,7 +76,7 @@ main .img{
       color: white;
       
   }
-.vue-typer {font-size: 50px;
+.vue-typer {font-size: 40px;
 text-align: center;
  
 }
