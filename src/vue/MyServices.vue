@@ -77,7 +77,6 @@ overflow: hidden;
     
     margin-bottom: 40px;
     margin-left: 50px;
-    height: 200px;
     justify-content: center;
     align-items:center;
     width: 600px;
@@ -204,21 +203,15 @@ margin-top: 30px;
     color: white;
    
 }
-.dark-serv div{
-    color: white;
-}
 .web-serv div{
   display: flex;
     flex-direction: column;
     justify-content: center;
-  margin-top: 0;
-     height:60%;
+  margin-top: 10px;
      width:129px ;
      font-size: 8px;
      text-align: center;
      margin-right: 0;
-  
-     
 }
 .dark-serv{
    background: #14142b;
