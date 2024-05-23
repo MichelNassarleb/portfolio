@@ -23,7 +23,7 @@ export default {
     props:['dark'],
     data(){
         return{
-            items:[{icon:'fa-solid fa-code',title:'Website - Mobile Application Development', description:'Second year computer science student with long hours of Udemy, Scrimba and Youtube website development courses. '},
+            items:[{icon:'fa-solid fa-code',title:'Website - Mobile Application Development', description:'Second year computer science student with long hours of Udemy, Scrimba and Youtube development courses plus almost 3 years of professional experience '},
             {icon:'fa-solid fa-shield',title:'Cyber Security', description:'Certified Cyber Securitist by Woz Global with knowledge in networking,CIA triad, protocols, firewalls, hash tools, OSI Model etc. '},
             {icon:'fa-solid fa-atom',title:'Physics Teaching', description:'Physics Graduate after long courses of Atoms, Optics, Waves,Quantum Physics, Electrical Physics and Mechanics.'}]
 
@@ -87,7 +87,7 @@ overflow: hidden;
     border-radius: 20px;
 }
 .web-serv div h1{
-    font-size: 40px;
+    font-size: 30px;
     color: #26267d;
 }
 .web-serv div{
@@ -103,8 +103,6 @@ overflow: hidden;
     margin-bottom: 0;
 }
 .code-icon{
-    
-
     margin-left:50px;
     font-size: 50px;
     background: lightblue;
@@ -158,7 +156,6 @@ section{
     
     margin-bottom: 40px;
     margin-left: 50px;
-    height: 350px;
     justify-content: center;
     align-items: center;
     width: 400px;
